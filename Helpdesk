@@ -1,0 +1,2 @@
+$ composer create-project uvdesk/community-skeleton helpdesk-project
+$ php bin/console uvdesk:configure-helpdesk
